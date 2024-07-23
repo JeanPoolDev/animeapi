@@ -1,0 +1,415 @@
+{
+  "pagination": {
+  "last_visible_page": 1,
+  "has_next_page": false,
+  "current_page": 1,
+  "items": {
+  "count": 3,
+  "total": 3,
+  "per_page": 25
+  }
+  },
+  "data": [
+  {
+  "mal_id": 58426,
+  "url": "https://myanimelist.net/anime/58426/Shikanoko_Nokonoko_Koshitantan",
+  "images": {
+  "jpg": {
+  "image_url": "https://cdn.myanimelist.net/images/anime/1094/143324.jpg",
+  "small_image_url": "https://cdn.myanimelist.net/images/anime/1094/143324t.jpg",
+  "large_image_url": "https://cdn.myanimelist.net/images/anime/1094/143324l.jpg"
+  },
+  "webp": {
+  "image_url": "https://cdn.myanimelist.net/images/anime/1094/143324.webp",
+  "small_image_url": "https://cdn.myanimelist.net/images/anime/1094/143324t.webp",
+  "large_image_url": "https://cdn.myanimelist.net/images/anime/1094/143324l.webp"
+  }
+  },
+  "trailer": {
+  "youtube_id": "Bf4XTzeUBHo",
+  "url": "https://www.youtube.com/watch?v=Bf4XTzeUBHo",
+  "embed_url": "https://www.youtube.com/embed/Bf4XTzeUBHo?enablejsapi=1&wmode=opaque&autoplay=1",
+  "images": {
+  "image_url": "https://img.youtube.com/vi/Bf4XTzeUBHo/default.jpg",
+  "small_image_url": "https://img.youtube.com/vi/Bf4XTzeUBHo/sddefault.jpg",
+  "medium_image_url": "https://img.youtube.com/vi/Bf4XTzeUBHo/mqdefault.jpg",
+  "large_image_url": "https://img.youtube.com/vi/Bf4XTzeUBHo/hqdefault.jpg",
+  "maximum_image_url": "https://img.youtube.com/vi/Bf4XTzeUBHo/maxresdefault.jpg"
+  }
+  },
+  "approved": true,
+  "titles": [
+  {
+  "type": "Default",
+  "title": "Shikanoko Nokonoko Koshitantan"
+  },
+  {
+  "type": "Japanese",
+  "title": "しかのこのこのここしたんたん"
+  },
+  {
+  "type": "English",
+  "title": "My Deer Friend Nokotan"
+  }
+  ],
+  "title": "Shikanoko Nokonoko Koshitantan",
+  "title_english": "My Deer Friend Nokotan",
+  "title_japanese": "しかのこのこのここしたんたん",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+  "from": "2024-07-07T00:00:00+00:00",
+  "to": null,
+  "prop": {
+  "from": {
+  "day": 7,
+  "month": 7,
+  "year": 2024
+  },
+  "to": {
+  "day": null,
+  "month": null,
+  "year": null
+  }
+  },
+  "string": "Jul 7, 2024 to ?"
+  },
+  "duration": "23 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.83,
+  "scored_by": 21615,
+  "rank": 922,
+  "popularity": 1678,
+  "members": 136810,
+  "favorites": 746,
+  "synopsis": "No one knows Torako used to be a delinquent. All of her classmates only know her as the perfect student. But everything changes when Nokotan, a transfer student with antlers, enters her life. Antlers aren't the only thing strange about Nokotan. Her deer nose can sniff out Torako's secret past! Whether it's at school or the zoo, chaos follows this doe-eyed girl's every step. Torako has so many questions! Is Nokotan a deer, a girl, or something in-between? (Source: Seven Seas Entertainment)",
+  "background": "Each episode was streamed four days in advance of the TV broadcast starting on July 3, 2024, on ABEMA. Regular broadcasting began on July 7, 2024.",
+  "season": "summer",
+  "year": 2024,
+  "broadcast": {
+  "day": "Sundays",
+  "time": "23:30",
+  "timezone": "Asia/Tokyo",
+  "string": "Sundays at 23:30 (JST)"
+  },
+  "producers": [
+  {
+  "mal_id": 53,
+  "type": "anime",
+  "name": "Dentsu",
+  "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+  },
+  {
+  "mal_id": 1747,
+  "type": "anime",
+  "name": "Twin Engine",
+  "url": "https://myanimelist.net/anime/producer/1747/Twin_Engine"
+  }
+  ],
+  "licensors": [],
+  "studios": [
+  {
+  "mal_id": 858,
+  "type": "anime",
+  "name": "Wit Studio",
+  "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+  }
+  ],
+  "genres": [
+  {
+  "mal_id": 4,
+  "type": "anime",
+  "name": "Comedy",
+  "url": "https://myanimelist.net/anime/genre/4/Comedy"
+  }
+  ],
+  "explicit_genres": [],
+  "themes": [
+  {
+  "mal_id": 57,
+  "type": "anime",
+  "name": "Gag Humor",
+  "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+  },
+  {
+  "mal_id": 23,
+  "type": "anime",
+  "name": "School",
+  "url": "https://myanimelist.net/anime/genre/23/School"
+  }
+  ],
+  "demographics": [
+  {
+  "mal_id": 27,
+  "type": "anime",
+  "name": "Shounen",
+  "url": "https://myanimelist.net/anime/genre/27/Shounen"
+  }
+  ]
+  },
+  {
+  "mal_id": 38843,
+  "url": "https://myanimelist.net/anime/38843/Shironeko_Project__Zero_Chronicle",
+  "images": {
+  "jpg": {
+  "image_url": "https://cdn.myanimelist.net/images/anime/1072/111360.jpg",
+  "small_image_url": "https://cdn.myanimelist.net/images/anime/1072/111360t.jpg",
+  "large_image_url": "https://cdn.myanimelist.net/images/anime/1072/111360l.jpg"
+  },
+  "webp": {
+  "image_url": "https://cdn.myanimelist.net/images/anime/1072/111360.webp",
+  "small_image_url": "https://cdn.myanimelist.net/images/anime/1072/111360t.webp",
+  "large_image_url": "https://cdn.myanimelist.net/images/anime/1072/111360l.webp"
+  }
+  },
+  "trailer": {
+  "youtube_id": "16HJFVZVVDk",
+  "url": "https://www.youtube.com/watch?v=16HJFVZVVDk",
+  "embed_url": "https://www.youtube.com/embed/16HJFVZVVDk?enablejsapi=1&wmode=opaque&autoplay=1",
+  "images": {
+  "image_url": "https://img.youtube.com/vi/16HJFVZVVDk/default.jpg",
+  "small_image_url": "https://img.youtube.com/vi/16HJFVZVVDk/sddefault.jpg",
+  "medium_image_url": "https://img.youtube.com/vi/16HJFVZVVDk/mqdefault.jpg",
+  "large_image_url": "https://img.youtube.com/vi/16HJFVZVVDk/hqdefault.jpg",
+  "maximum_image_url": "https://img.youtube.com/vi/16HJFVZVVDk/maxresdefault.jpg"
+  }
+  },
+  "approved": true,
+  "titles": [
+  {
+  "type": "Default",
+  "title": "Shironeko Project: Zero Chronicle"
+  },
+  {
+  "type": "Synonym",
+  "title": "White Cat Project"
+  },
+  {
+  "type": "Synonym",
+  "title": "Rune Story"
+  },
+  {
+  "type": "Japanese",
+  "title": "白猫プロジェクトZERO CHRONICLE"
+  },
+  {
+  "type": "English",
+  "title": "Shironeko Project ZERO CHRONICLE"
+  }
+  ],
+  "title": "Shironeko Project: Zero Chronicle",
+  "title_english": "Shironeko Project ZERO CHRONICLE",
+  "title_japanese": "白猫プロジェクトZERO CHRONICLE",
+  "title_synonyms": [
+  "White Cat Project",
+  "Rune Story"
+  ],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+  "from": "2020-04-06T00:00:00+00:00",
+  "to": "2020-06-22T00:00:00+00:00",
+  "prop": {
+  "from": {
+  "day": 6,
+  "month": 4,
+  "year": 2020
+  },
+  "to": {
+  "day": 22,
+  "month": 6,
+  "year": 2020
+  }
+  },
+  "string": "Apr 6, 2020 to Jun 22, 2020"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.39,
+  "scored_by": 42613,
+  "rank": 11888,
+  "popularity": 2126,
+  "members": 99168,
+  "favorites": 211,
+  "synopsis": "The world is divided into two kingdoms: the Kingdom of White, which floats in the heavens and is ruled by their queen Iris, and the Kingdom of Black, which stands upon desolate land below and houses the King of Darkness as its ruler. As of late, forces of evil have amassed great power, posing a threat to the entire world. Being the main representative of the Light, it is Iris' duty to maintain the balance of the world and fight off the darkness in her kingdom. Meanwhile in the Kingdom of Black, rampaging monsters annihilate a certain boy's village, leaving him the sole survivor. As he grieves in hopelessness, an armored man named Skeer notices the child and comforts him. Soon after, Skeer recognizes the boy's potential to change the kingdom's status quo and makes him his heir before passing away. The boy then vows to become the Prince of Darkness—the one who will replace the King—to bring the world back to its rightful path. As Iris and Prince of Darkness each challenge the impending doom the world faces in their own respective ways, their destinies will converge with each other, and perhaps, their bond will decide the fate of the world. [Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2020,
+  "broadcast": {
+  "day": "Mondays",
+  "time": "22:00",
+  "timezone": "Asia/Tokyo",
+  "string": "Mondays at 22:00 (JST)"
+  },
+  "producers": [
+  {
+  "mal_id": 1113,
+  "type": "anime",
+  "name": "NBCUniversal Entertainment Japan",
+  "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+  },
+  {
+  "mal_id": 1613,
+  "type": "anime",
+  "name": "COLOPL",
+  "url": "https://myanimelist.net/anime/producer/1613/COLOPL"
+  },
+  {
+  "mal_id": 1696,
+  "type": "anime",
+  "name": "Kadokawa",
+  "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+  },
+  {
+  "mal_id": 1815,
+  "type": "anime",
+  "name": "GREE",
+  "url": "https://myanimelist.net/anime/producer/1815/GREE"
+  }
+  ],
+  "licensors": [
+  {
+  "mal_id": 102,
+  "type": "anime",
+  "name": "Funimation",
+  "url": "https://myanimelist.net/anime/producer/102/Funimation"
+  }
+  ],
+  "studios": [
+  {
+  "mal_id": 439,
+  "type": "anime",
+  "name": "Project No.9",
+  "url": "https://myanimelist.net/anime/producer/439/Project_No9"
+  }
+  ],
+  "genres": [
+  {
+  "mal_id": 1,
+  "type": "anime",
+  "name": "Action",
+  "url": "https://myanimelist.net/anime/genre/1/Action"
+  },
+  {
+  "mal_id": 2,
+  "type": "anime",
+  "name": "Adventure",
+  "url": "https://myanimelist.net/anime/genre/2/Adventure"
+  },
+  {
+  "mal_id": 10,
+  "type": "anime",
+  "name": "Fantasy",
+  "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+  }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+  },
+  {
+  "mal_id": 49525,
+  "url": "https://myanimelist.net/anime/49525/Shironeko_Project_Mini_Anime__Zerokiss_Ganbaru",
+  "images": {
+  "jpg": {
+  "image_url": "https://cdn.myanimelist.net/images/anime/1352/131517.jpg",
+  "small_image_url": "https://cdn.myanimelist.net/images/anime/1352/131517t.jpg",
+  "large_image_url": "https://cdn.myanimelist.net/images/anime/1352/131517l.jpg"
+  },
+  "webp": {
+  "image_url": "https://cdn.myanimelist.net/images/anime/1352/131517.webp",
+  "small_image_url": "https://cdn.myanimelist.net/images/anime/1352/131517t.webp",
+  "large_image_url": "https://cdn.myanimelist.net/images/anime/1352/131517l.webp"
+  }
+  },
+  "trailer": {
+  "youtube_id": null,
+  "url": null,
+  "embed_url": null,
+  "images": {
+  "image_url": null,
+  "small_image_url": null,
+  "medium_image_url": null,
+  "large_image_url": null,
+  "maximum_image_url": null
+  }
+  },
+  "approved": true,
+  "titles": [
+  {
+  "type": "Default",
+  "title": "Shironeko Project Mini Anime: Zerokiss, Ganbaru?"
+  },
+  {
+  "type": "Japanese",
+  "title": "【白猫プロジェクト】ミニアニメ ゼロキス、がんばる？"
+  }
+  ],
+  "title": "Shironeko Project Mini Anime: Zerokiss, Ganbaru?",
+  "title_english": null,
+  "title_japanese": "【白猫プロジェクト】ミニアニメ ゼロキス、がんばる？",
+  "title_synonyms": [],
+  "type": "ONA",
+  "source": "Game",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+  "from": "2020-05-12T00:00:00+00:00",
+  "to": null,
+  "prop": {
+  "from": {
+  "day": 12,
+  "month": 5,
+  "year": 2020
+  },
+  "to": {
+  "day": null,
+  "month": null,
+  "year": null
+  }
+  },
+  "string": "May 12, 2020"
+  },
+  "duration": "2 min",
+  "rating": "G - All Ages",
+  "score": null,
+  "scored_by": null,
+  "rank": 13514,
+  "popularity": 20022,
+  "members": 234,
+  "favorites": 0,
+  "synopsis": null,
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+  "day": null,
+  "time": null,
+  "timezone": null,
+  "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [],
+  "genres": [
+  {
+  "mal_id": 4,
+  "type": "anime",
+  "name": "Comedy",
+  "url": "https://myanimelist.net/anime/genre/4/Comedy"
+  }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+  }
+  ]
+  }
